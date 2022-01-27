@@ -3,7 +3,7 @@
 
 <head>
     <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
+    <meta itemprop="name" content="吃掉小舞梦" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -73,7 +73,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小鹿乃">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉小舞梦">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
@@ -85,19 +85,8 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text">时间</span>
                         </div>
-                        <input type="text" id="gameTime" class="form-control" maxlength=4 placeholder="默认为20秒，修改后将不会排行">
-                    </div>
-                    <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon1">名字</span>
-                        </div>
-                        <input type="text" id="username" class="form-control" maxlength=8 placeholder="用于纪录排行(特殊字符会被过滤)">
-                    </div>
-                    <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon1">留言</span>
-                        </div>
-                        <input type="text" id="message" class="form-control" maxlength=50 placeholder="禁广告/脏话(本项可不填)">
+                        <input type="text" id="gameTime" class="form-control" maxlength=4 placeholder="默认为20秒">
+              
                     </div>
                     <button type="button" class="btn btn-secondary btn-lg" onclick="show_btn();save_cookie();">完成</button>
                 </div>
