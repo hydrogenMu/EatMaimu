@@ -16,6 +16,6 @@ _🦌 网页小游戏 🥛_
 
 
 |
-[Github Page](https://hydrogenmu.github.io/EatMaimu/)
+[Github Page](https://hydrogenmu.github.io/EatMaimu/index.html)
 
 
