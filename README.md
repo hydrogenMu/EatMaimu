@@ -1,4 +1,4 @@
-
+<div align=center>
  <img src="https://github.com/hydrogenMu/EatMaimu/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
